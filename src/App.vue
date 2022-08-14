@@ -3,6 +3,7 @@
     {{ GStore.flashMessage }}
   </div>
   <div id="nav">
+    <h1>632115027 NITIPOOM TINNASRI</h1>
     <router-link :to="{ name: 'EventList' }">Home</router-link> |
     <router-link :to="{ name: 'About' }">About</router-link>
   </div>
